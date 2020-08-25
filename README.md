@@ -1,4 +1,4 @@
-[ILAJNA](https://i.imgur.com/VJOPByQ.gif)
+[![ILAJNA](https://i.imgur.com/VJOPByQ.gif)](https://ilajna.co)
 
 <!--
 **brinyemp4/brinyemp4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
